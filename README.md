@@ -44,7 +44,8 @@ The Employee Payroll System is a C# Console Application designed to calculate em
 ```
 dotnet run
 ```
-## Usage
+### Usage
+
 Menu Options:
 1.Add a new employee
 2.Display all employee details
@@ -53,7 +54,8 @@ Menu Options:
 5.Load employee data from a file
 6.Calculate and display total payroll
 7.Exit
-Example Input
+
+# Example Input
 When adding an employee:
 Enter Employee Name: John Doe
 Enter Employee ID: 101
