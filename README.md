@@ -44,33 +44,36 @@ The Employee Payroll System is a C# Console Application designed to calculate em
 ```
 dotnet run
 ```
-### Usage
+## Usage
 
-Menu Options:
-1.Add a new employee
-2.Display all employee details
-3.Calculate and display individual salaries
-4.Save employee data to a file
-5.Load employee data from a file
-6.Calculate and display total payroll
-7.Exit
+### Menu Options
 
-# Example Input
-When adding an employee:
-Enter Employee Name: John Doe
-Enter Employee ID: 101
-Enter Role (1 - Manager/2 - Developer/3 - Intern): 2
-Enter Basic Pay: 5000
-Enter Allowances: 1500
+1. Add a new employee  
+2. Display all employee details  
+3. Calculate and display individual salaries  
+4. Save employee data to a file  
+5. Load employee data from a file  
+6. Calculate and display total payroll  
+7. Exit  
+
+## Example Input
+
+```plaintext
+Enter Employee Name: John Doe  
+Enter Employee ID: 101  
+Enter Role (1 - Manager / 2 - Developer / 3 - Intern): 2  
+Enter Basic Pay: 5000  
+Enter Allowances: 1500  
+
 
 ## Implementation Details
 Classes and OOP Concepts
-# BaseEmployee Class
+### BaseEmployee Class
 Properties: Name, ID, BasicPay, Allowances, and Deductions.
 Methods: CalculateSalary().
-# Derived Classes (Manager, Developer, Intern)
+### Derived Classes (Manager, Developer, Intern)
 Additional attributes or role-specific behaviors.
-## File I/O
+# File I/O
 Saving and loading employee data from a file.
 employees.txt (Path: EmployeePayrollSystem\bin\Debug\net9.0\)
 
