@@ -64,7 +64,7 @@ Enter Employee ID: 101
 Enter Role (1 - Manager / 2 - Developer / 3 - Intern): 2  
 Enter Basic Pay: 5000  
 Enter Allowances: 1500  
-
+```
 
 ## Implementation Details
 Classes and OOP Concepts
