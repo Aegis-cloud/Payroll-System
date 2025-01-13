@@ -1,5 +1,4 @@
 # Payroll-System
-# Employee Payroll System
 
 ## Overview
 
