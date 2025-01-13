@@ -73,8 +73,8 @@ Properties: Name, ID, BasicPay, Allowances, and Deductions.
 Methods: CalculateSalary().
 ### Derived Classes (Manager, Developer, Intern)
 Additional attributes or role-specific behaviors.
-# File I/O
+## File I/O
 Saving and loading employee data from a file.
-employees.txt (Path: EmployeePayrollSystem\bin\Debug\net9.0\)
+employees.txt (Path: **EmployeePayrollSystem\bin\Debug\net9.0\** )
 
 
