@@ -1,0 +1,14 @@
+E:\C#\EmployeePayrollSystem\bin\Debug\net9.0\EmployeePayrollSystem.exe
+E:\C#\EmployeePayrollSystem\bin\Debug\net9.0\EmployeePayrollSystem.deps.json
+E:\C#\EmployeePayrollSystem\bin\Debug\net9.0\EmployeePayrollSystem.runtimeconfig.json
+E:\C#\EmployeePayrollSystem\bin\Debug\net9.0\EmployeePayrollSystem.dll
+E:\C#\EmployeePayrollSystem\bin\Debug\net9.0\EmployeePayrollSystem.pdb
+E:\C#\EmployeePayrollSystem\obj\Debug\net9.0\EmployeePayrollSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\EmployeePayrollSystem\obj\Debug\net9.0\EmployeePayrollSystem.AssemblyInfoInputs.cache
+E:\C#\EmployeePayrollSystem\obj\Debug\net9.0\EmployeePayrollSystem.AssemblyInfo.cs
+E:\C#\EmployeePayrollSystem\obj\Debug\net9.0\EmployeePayrollSystem.csproj.CoreCompileInputs.cache
+E:\C#\EmployeePayrollSystem\obj\Debug\net9.0\EmployeePayrollSystem.dll
+E:\C#\EmployeePayrollSystem\obj\Debug\net9.0\refint\EmployeePayrollSystem.dll
+E:\C#\EmployeePayrollSystem\obj\Debug\net9.0\EmployeePayrollSystem.pdb
+E:\C#\EmployeePayrollSystem\obj\Debug\net9.0\EmployeePayrollSystem.genruntimeconfig.cache
+E:\C#\EmployeePayrollSystem\obj\Debug\net9.0\ref\EmployeePayrollSystem.dll
